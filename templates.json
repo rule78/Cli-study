@@ -1,0 +1,24 @@
+{
+    "pages":{
+        "resolvePath": "./src/pages",
+        "tplPath": "./tpl"
+    },
+    "program":{
+        "react":{
+            "url": "https://github.com/rule78/webpack3.git",
+            "branch": "master",
+            "description": "react"
+        },
+        
+        "vue":{
+            "url": "https://github.com/rule78/webpack3.git",
+            "branch": "master",
+            "description": "react"
+        },
+        "webpack":{
+            "url": "https://github.com/rule78/webpack3.git",
+            "branch": "master",
+            "description": "react"
+        }
+    }
+}
