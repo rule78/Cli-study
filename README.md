@@ -1,4 +1,4 @@
-<h1 align="center">Font-end Cli</h1>
+<h1 align="center">Front-end Cli</h1>
 
 ### 实现功能
 - 拉取远程模板 yangli01-cli init
