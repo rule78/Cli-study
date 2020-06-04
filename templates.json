@@ -4,24 +4,13 @@
         "tplPath": "./tpl"
     },
     "program":{
-        "react":{
-            "url": "https://github.com/rule78/Antd4-study.git",
-            "branch": "master",
-            "description": "react"
-        },
-        
-        "vue":{
-            "url": "https://github.com/rule78/Antd4-study.git",
-            "branch": "master",
-            "description": "react"
-        },
         "webpack":{
             "url": "https://github.com/rule78/Antd4-study.git",
             "branch": "master",
             "description": "react"
         },
-        "react-component":{
-            "url": "https://github.com/rule78/Antd4-study.git",
+        "tsdx":{
+            "url": "https://github.com/rule78/materials.git",
             "branch": "master",
             "description": "react"
         }
