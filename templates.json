@@ -7,12 +7,17 @@
         "webpack":{
             "url": "https://github.com/rule78/Antd4-study.git",
             "branch": "master",
-            "description": "react"
+            "description": "webpack pro tpl"
         },
         "tsdx":{
             "url": "https://github.com/rule78/materials.git",
             "branch": "master",
-            "description": "react"
+            "description": "react+ts component tpl"
+        },
+        "oms":{
+            "url": "https://github.com/rule78/materials.git",
+            "branch": "master",
+            "description": "oms pro tpl"
         }
     }
 }
