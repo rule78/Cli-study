@@ -1,6 +1,6 @@
 {
   "name": "yangli01-cli",
-  "version": "1.0.42",
+  "version": "1.0.9",
   "description": "a cli study pro",
   "main": "y",
   "scripts": {
