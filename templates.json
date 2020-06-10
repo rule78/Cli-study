@@ -17,7 +17,8 @@
         "oms":{
             "url": "https://github.com/rule78/materials.git",
             "branch": "master",
-            "description": "oms pro tpl"
+            "description": "oms pro tpl",
+            "replace": ""
         }
     }
 }
