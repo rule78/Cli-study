@@ -8,6 +8,17 @@
 ### Use bash
 ```
 $ npm i yangli01-cli -g
+
+$ yangli01-cli 
+```
+
+### Use Command
+```
+$ yangli01-cli init
+Select your program type:
+```
+
+```
 $ yangli01-cli p
 Type your page relative path:<ParentPageName>/<ActionPageName>
 ```
